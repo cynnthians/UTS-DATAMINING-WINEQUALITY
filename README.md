@@ -1,6 +1,5 @@
 #  UTS Data Mining — Prediksi Kualitas Wine
-**Nama:** CYNTHIA PUTRI ANAS RAMADHANI 
-
+**Nama:** CYNTHIA PUTRI ANAS RAMADHANI   
 **NIM:** 2304020189  
 **Mata Kuliah:** Data Mining  
 
